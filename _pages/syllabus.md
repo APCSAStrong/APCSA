@@ -47,7 +47,7 @@ instructors:
   title: Instructor
   email: billmongan@gmail.com
   webpage_url: "http://www.billmongan.com"
-  picture: /images/profile.png      
+  picture: "http://billmongan.com/images/profile.png"    
   
 textbooks:
 - title: "CSAwesome"
